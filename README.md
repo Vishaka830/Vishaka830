@@ -6,7 +6,7 @@
 - 👯 Looking to collaborate on Projects & Hackathons
 - 🤔 Need help with debugging.
 - 💬 Ask me about Mathematics, Compiler Design & Web Development.
-- 📫 How to reach me: Instagram- @iam_vishaka
+- 📫 How to reach me: LinkedIn- https://in.linkedin.com/in/vishaka-saxena-a2962b208
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a Content Developer & Digital Artist too.
 
