@@ -1,9 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Vishaka
 
-<!--
-**Vishaka830/Vishaka830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:-->
 
 - 🔭 Working on Python Projects.
 - 🌱 Currently learning Data Science with Python
